@@ -1,0 +1,26 @@
+{
+  "name": "lderp-ad",
+  "description": "Active Directory extension for lderp",
+  "version": "0.0.3",
+  "keywords": [
+    "ldap",
+    "promise",
+    "microsoft",
+    "active directory",
+    "ad"
+  ],
+  "homepage": "https://github.com/beardon/lderp-ad",
+  "bugs": {
+    "url": "https://github.com/beardon/lderp-ad/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "./lib/ad",
+  "dependencies": {
+    "lderp": "^0.0.3"
+  }
+}
