@@ -1,7 +1,7 @@
 {
   "name": "lderp-ad",
   "description": "Active Directory extension for lderp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "ldap",
     "promise",
